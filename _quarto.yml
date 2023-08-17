@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "ChairNotes"
+  author: "Norah Jones"
+  date: "17/08/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
