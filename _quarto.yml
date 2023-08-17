@@ -1,15 +1,21 @@
 project:
   type: book
+  output-dir: docs
+
 
 book:
-  title: "ChairNotes"
-  author: "Norah Jones"
+  title: "R(D)SVS Quality Assurance and Enhancement Committee Chair Notes"
+  author: "Jill MacKay"
   date: "17/08/2023"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - c00about.qmd
+    - part: c10induction.qmd
+      chapters:
+        - c11remit.qmd
+        - c12membership.qmd
+      appendices: references.qmd
+
 
 bibliography: references.bib
 
@@ -20,4 +26,3 @@ format:
     documentclass: scrreprt
 
 editor: visual
-
