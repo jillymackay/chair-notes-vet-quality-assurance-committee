@@ -1,9 +1,6 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This open source, Creative Commons licensed e-book is intended to be a resource for those participating in Quality Assurance and Enhancement in Higher Education.
 
-```{r}
-1 + 1
-```
+I intend to provide continuity for the Chairing of the committee, but also its operations. 

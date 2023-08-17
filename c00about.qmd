@@ -1,4 +1,9 @@
-# About
+# Guiding Principles
 
+I am personally guided by the idea that Quality Assurance is Not a Morally Neutral Concept.
 
-This book is a live resource of my notes as Chair of the R(D)SVS Quality Assurance and Enhancement Committee
+To that end, I am influenced by the open access principles.
+
+QA Scotland's Enhancement Framework
+
+The University of Edinburgh's guidance.
