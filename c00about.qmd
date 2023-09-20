@@ -1,6 +1,8 @@
 # Guiding Principles
 
-I am personally guided by the idea that Quality Assurance is Not a Morally Neutral Concept.
+This document arises from my maternity leave. When I returned from maternity leave, I realised that I hadn't left very good instructions
+
+I am personally guided by the idea that [Quality Assurance is Not a Morally Neutral Concept](https://jillymackay.com/post/moral-quality-assurance/).
 
 To that end, I am influenced by the open access principles.
 

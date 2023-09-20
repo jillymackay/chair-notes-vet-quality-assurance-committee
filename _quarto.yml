@@ -15,6 +15,24 @@ book:
         - c11remit.qmd
         - c12membership.qmd
       appendices: references.qmd
+    - part: c20meetings.qmd
+      chapters:
+        - c21conduct.qmd
+        - c22papers.qmd
+    - part: c30outputs.qmd
+      chapters:
+        - c31report.qmd
+        - c32enhancement.qmd
+    - part: c40misc.qmd
+      chapters:
+        - c41comms.qmd
+  favicon: logo.png
+  twitter-card: true
+  site-url: https://jillymackay.github.io/chair-notes-vet-quality-assurance-committee/
+  repo-url: https://github.com/jillymackay/chair-notes-vet-quality-assurance-committee
+  repo-actions: [edit, issue, source]
+  downloads: [pdf]
+  sharing: [twitter, facebook]
 
 
 bibliography: references.bib

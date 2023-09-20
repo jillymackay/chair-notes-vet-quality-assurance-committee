@@ -1,0 +1,9 @@
+---
+title: "Papers and Minutes"
+---
+
+# Papers
+
+Papers are core business of a committee meeting.
+
+Good practice: Number papers logically (e.g. QAEC-20231213-A)
